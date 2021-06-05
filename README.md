@@ -35,7 +35,7 @@
 <h3 align="left"> 🧡 Support:</h3>
 <p><a href="https://www.buymeacoffee.com/faheemahmad227"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faheemahmad1999" /></a></p><br><br><br>
 
-<h3 align="left">🌐 Languages and Tools:</h3>
+## 👨‍💻 Languages and Tools
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
@@ -90,15 +90,12 @@
     </a>
 </p>
 <hr>
-<h3><b>Faheem Ahmad's streak</b></h3>
-    <a href="https://github.com/faheemahmad1999/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Faheem Ahmad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad1999&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 
-<hr>
-<h3><b>My Activity:</b></h3>
- 
-[![Github Stats By faheemahmad1999](https://github-readme-stats.vercel.app/api?username=faheemahmad1999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://faheemahmad1999.github.io/)
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=faheemahmad1999&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad1999&theme=dark" width="45%" >
 
 <hr>
  <h3><b>Language Meter:</b></h3>
